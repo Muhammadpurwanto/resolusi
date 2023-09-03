@@ -2,6 +2,9 @@ RENCAKU CONTENT
 - javascript
  * ES6
  *framework
+  ^vue
 - Struktur Data Dasar
 - php
+  ^ laravel
 - css
+- Python
