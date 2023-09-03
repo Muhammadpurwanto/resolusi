@@ -2,5 +2,6 @@ RENCAKU CONTENT
 - javascript
  * ES6
  *framework
+- Struktur Data Dasar
 - php
 - css
