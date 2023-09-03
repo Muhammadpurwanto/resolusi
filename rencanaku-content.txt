@@ -3,6 +3,7 @@ RENCAKU CONTENT
  * ES6
  *framework
   ^vue
+  ^React
 - Struktur Data Dasar
 - php
   ^ laravel
